@@ -25,3 +25,8 @@ class segitiga
             return p.panjang;
         }
 };
+
+int main()
+{
+    
+}
